@@ -1,0 +1,28 @@
+body {
+  background: rgb(238, 223, 203);
+  margin-top: 40px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.imageMain {
+  width: 100%;
+  max-width: 380px;
+}
+
+.contactEmail {
+  color: rgb(23, 23, 121);
+}
+
+.primaryLink {
+  color: rgb(72, 36, 14);
+  margin: 20px;
+}
+
+.mainLinks {
+  display: flex;
+  justify-content: center;
+}
